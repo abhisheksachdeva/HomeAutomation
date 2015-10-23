@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-ASNOI20</Machine>
+    <WindowsUser>abhishek</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>197d9e5b-65a5-41a2-9588-75a8cb9df188</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\bin\Debug\TileEvents.WindowsPhone.exe">
+      <PackagePath>TileEvents.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.dll">
+      <PackagePath>Microsoft.Band.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Phone.dll">
+      <PackagePath>Microsoft.Band.Phone.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Store.dll">
+      <PackagePath>Microsoft.Band.Store.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Net.Http.2.2.29\lib\wpa81\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.Shared\Assets\SampleTileIconLarge.png">
+      <PackagePath>Assets\SampleTileIconLarge.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.Shared\Assets\SampleTileIconSmall.png">
+      <PackagePath>Assets\SampleTileIconSmall.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\bin\Debug\TileEvents.WindowsPhone.xr.xml">
+      <PackagePath>TileEvents.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Phone\Microsoft.Band.Phone.xr.xml">
+      <PackagePath>Microsoft.Band.Phone\Microsoft.Band.Phone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Phone\Sensors\PhoneSensorConsentPage.xbf">
+      <PackagePath>Microsoft.Band.Phone\Sensors\PhoneSensorConsentPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Phone\Tiles\PhoneAddTilePage.xbf">
+      <PackagePath>Microsoft.Band.Phone\Tiles\PhoneAddTilePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Store\Microsoft.Band.Store.xr.xml">
+      <PackagePath>Microsoft.Band.Store\Microsoft.Band.Store.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Store\Sensors\SensorConsentPage.xbf">
+      <PackagePath>Microsoft.Band.Store\Sensors\SensorConsentPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\packages\Microsoft.Band.1.3.10929\lib\wpa81\Microsoft.Band.Store\Tiles\AddTilePage.xbf">
+      <PackagePath>Microsoft.Band.Store\Tiles\AddTilePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

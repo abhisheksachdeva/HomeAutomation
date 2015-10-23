@@ -1,0 +1,9 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\users\abhishek\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.band.1.3.10929\lib\netcore451\microsoft.band.dll" HashGuid="6705b5bb-48c0-5c5d-c987-f3ebdb4e03eb" />
+    <ReferenceAssembly PathName="c:\users\abhishek\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.band.1.3.10929\lib\netcore451\microsoft.band.store.dll" HashGuid="ac7b829b-d109-09c5-f061-1897783e0e25" />
+    <ReferenceAssembly PathName="c:\users\abhishek\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.band.1.3.10929\lib\netcore451\microsoft.band.windows.dll" HashGuid="f0d11f80-4057-46ca-ed83-ecd3fc926e81" />
+    <ReferenceAssembly PathName="c:\users\abhishek\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\abhishek\downloads\microsoft band sdk and samples for windows\samples\packages\microsoft.net.http.2.2.29\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

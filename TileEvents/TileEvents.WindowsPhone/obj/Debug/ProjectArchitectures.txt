@@ -1,0 +1,1 @@
+C:\Users\abhishek\Downloads\Microsoft Band SDK and Samples for Windows\Samples\TileEvents\TileEvents.WindowsPhone\TileEvents.WindowsPhone.csproj;neutral
